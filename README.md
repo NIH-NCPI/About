@@ -28,7 +28,7 @@ The NIH Cloud Platform Interoperability (NCPI) program includes multiple organiz
 *   [NCPI Administrative Coordinating Center (ACC)](ACC.md)
 *   [External Advisory Board (EAB)](EAB.md)
 *   [NCPI Technical Working Groups](Working-Groups.md)
-*   [Interoperability Projects](https://github.com/NCPITest/Projects/blob/main/README.md)
+*   [Interoperability Projects](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/README.md)
 
 
 <br>
@@ -36,7 +36,7 @@ The NIH Cloud Platform Interoperability (NCPI) program includes multiple organiz
 
 The NCPI Program, overseen by NIH representatives, is a collaboration between platform team members and researchers running cross-platform research efforts to inform and validate interoperability approaches.
 
-### [Learn more about NCPI's participating partners](https://github.com/NCPITest/Partners/blob/main/README.md")
+### [Learn more about NCPI's participating partners](https://github.com/NIH-NCPI/Partners/blob/main/README.md)
 
 NCPI was created as an outcome of the NIH Workshop on Cloud-Based Platforms Interoperability held at RENCI on October 3-4th, 2019 to facilitate interoperability among the genomic analysis platforms established by the NCI, NHGRI, NHLBI, and the NIH Common Fund.
 
