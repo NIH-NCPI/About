@@ -5,7 +5,7 @@
 
 <h2> Overview </h2>
 
-<img src="https://github.com/NIH-NCPI/About/blob/main/GA4GH-logo.jpg"
+<img src="https://github.com/NIH-NCPI/.github/blob/main/profile/GA4GH-logo.jpg"
      align="right"
      alt="Global Alliance for Genomics & Health (GA4GH) Logo"
      width="530"
