@@ -3,7 +3,7 @@
 
 <h1> NIH Office of Data Science Strategy (ODSS) </h1>
 
-<img src="odss.png"
+<img src="https://github.com/NIH-NCPI/.github/blob/main/profile/odss.png"
   align="right"
   alt="NIH Office of Data Science Strategy (ODSS) Logo"
   width=425
