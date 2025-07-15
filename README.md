@@ -16,7 +16,7 @@
 
 Helping to create a federated data ecosystem
 --------------------------------------------
-<img src="https://github.com/user-attachments/assets/a0f16114-1260-4f26-8c1f-ba4a46730e6f"
+<img src="https://github.com/NIH-NCPI/.github/blob/main/profile/ncpi-diagram.png"
      align="right"
      alt="High-level diagram illustrating the NCPI structure"
      width="450"
