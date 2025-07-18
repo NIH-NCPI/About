@@ -18,5 +18,4 @@ The NIH ODSS:<br>
 *   Oversees the NCPI Administrative Coordinating Center
 *   Convenes the NIH NCPI Steering Committee
 
-<h3> For More information: </h3>
-https://datascience.nih.gov/
+**[Read more about ODSS](https://datascience.nih.gov/)**
