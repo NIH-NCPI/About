@@ -19,8 +19,6 @@ The FHIR Working Group been established and the charter is undergoing developmen
 This working group assesses the potential for FHIR resources to model and share complex clinical and phenotypic data between NCPI participating platforms. The current version of the FHIR Implementation Guide, informed by the working group, can be found [here](https://nih-ncpi.github.io/ncpi-fhir-ig-2/). 
 
 
----
-
 <h3> Search Working Group </h3>
 
 Chair:
@@ -28,3 +26,11 @@ Chair:
 
 The Search Working Group has been established and the charter is undergoing development, and meets on the 4th Tuesday of each month. <br>
 This working group spearheads improvements to the utility of search across the NCPI cloud platforms with a focus on dataset discovery and cohort building.
+
+---
+
+<h3> Past Working Groups </h3>
+
+
+Before the establishment of the ACC, NCPI was coordinated and run by a series of collaborating working groups. More information about past working groups can be found [here](Past-Working-Groups.md).
+
