@@ -15,7 +15,7 @@ This working group assesses the potential for FHIR resources to model and share 
 
 <h4> NCPI FHIR Implementation Guide, 2026 </h4>
 
-The NCPI FHIR working group has developed an guide for the implementation of FHIR as a metadata standard, improving upon [NCPI FHIR IG](https://nih-ncpi.github.io/ncpi-fhir-ig/). [Version 2](https://nih-ncpi.github.io/ncpi-fhir-ig-2/) nearing completion as of March 2026.
+The NCPI FHIR working group has developed an guide for the implementation of FHIR as a metadata standard, improving upon the original NCPI FHIR Implementation Guide. [Version 2](https://nih-ncpi.github.io/ncpi-fhir-ig-2/) is nearing completion as of March 2026.
 
 <h3> Search Working Group </h3>
 
