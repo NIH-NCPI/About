@@ -2,12 +2,10 @@
 
 <h1> Working Groups </h1>
 
-* * *
-
 The NCPI technical working groups address cross-cutting challenges to interoperability. <br>
 The working groups explore, support, and coordinate the adoption of standards. They also foster outreach and training to provide exposure for NCPI platforms in the biomedical research community.
 
----
+
 
 <h3> FHIR Working Group </h3>
 
@@ -32,9 +30,9 @@ The NCPI [Search Working Group](https://github.com/NIH-NCPI/About/blob/main/Work
 **Abstract**: The U.S. federal government has made significant advancements in genomic and biomedical data accessibility through the Database of Genotypes and Phenotypes (dbGaP) and NIH Cloud Platform Interoperability (NCPI) Program. These platforms aim to democratize access to data, enabling researchers to leverage large-scale datasets for scientific discovery while respecting privacy and consent constraints. The tools available for exploring these datasets can be categorized into three levels of search functionality: 1. study-level, 2. dataset-level, and 3. participant-level. Each of these levels serves distinct purposes and presents unique design and implementation challenges.
 
 
----
 
-<h3> Past Working Groups </h3>
+
+<h3> Previous NCPI Working Groups </h3>
 
 
 Before the establishment of the ACC, NCPI was coordinated and run by a series of collaborating working groups. More information about past working groups can be found [here](Past-Working-Groups.md).
