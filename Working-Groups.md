@@ -23,7 +23,7 @@ The NCPI FHIR working group has developed an guide for the implementation of FHI
 
 This working group spearheads improvements to the utility of search across the NCPI cloud platforms with a focus on dataset discovery and cohort building.
 
-The NCPI [Search Working Group](https://github.com/NIH-NCPI/About/blob/main/Working-Groups.md#-search-working-group-) has developed a [whitepaper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5208394) on participant level search. The working group is refining a draft of this work, with hopes to submit to a peer-reviewed journal.
+The Search Working Group has developed a [whitepaper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5208394) on participant level search. The working group is refining a draft of this work, with hopes to submit to a peer-reviewed journal.
 
 <h4> Untangling Participant-level Search for Faster and Compliant Data Discovery: A Review of Current and Prospective Policies and Technologies in Data Exploration in the NCPI Program </h4>
 
